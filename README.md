@@ -8,20 +8,20 @@
 
 # Demonstration
 - The home page is the following 
- ![](images/1.png)
+ ![](pictures/1.png)
 
 - Once the user has connected his wallet, the address is detected automatically. Then he can make transactions and send Eths. 
- ![](images/2.png)
+ ![](pictures/2.png)
 
 - To send Eths, click on the "Send Eths" button and a form will appear.
-![](images/3.png)
+![](pictures/3.png)
 
 - Then we fill in the required form fields.
-![](images/4.png)
+![](pictures/4.png)
 
 - Next, we confirm the transaction within MetaMask
-![](images/5.png)
+![](pictures/5.png)
 
 - Lastly, we can list all the transactions made with the website.
-![](images/6.png)
+![](pictures/6.png)
 
